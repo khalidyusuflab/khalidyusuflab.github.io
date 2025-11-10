@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm an aspiring researcher interested in how our brains, bodies, and lifestyles interact as we age. 
+Hello, I am an aspiring researcher interested in how our brains, bodies, and lifestyles interact as we age. 
 
-I'm currently a Research Coordinator in the Department of Psychiatry at the University of Cincinnati, where I help lead studies using magnetic resonance spectroscopy (MRS) and mass spectrometry-based metabolomics to explore how dietary interventions such as N-acetylcysteine (NAC) supplementation influence brain chemistry, oxidative stress, and cognitive function in psychiatric populations.
+Crrently I work as a Research Coordinator in the Department of Psychiatry at the University of Cincinnati, where I help lead studies using magnetic resonance spectroscopy (MRS) and mass spectrometry-based metabolomics to explore how dietary interventions such as N-acetylcysteine (NAC) supplementation influence brain chemistry, oxidative stress, and cognitive function in psychiatric populations.
 
 Research Interests
 ======
