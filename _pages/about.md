@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -19,7 +19,7 @@ I aim to integrate perspectives from clinical psychology, neuropsychology, and n
 
 
 
-About This Site
+About this Site
 ======
 This site serves as a home for my research updates, writing, and academic projects. Here, you’ll find:
 
@@ -27,4 +27,4 @@ This site serves as a home for my research updates, writing, and academic projec
 2. Occasional blog posts on brain health, aging, wellness, and related topics
 3. Links to publications, presentations, and collaborations
 
-If you’re interested in connecting or collaborating, feel free to reach out via email
+If you’re interested in connecting or collaborating, feel free to reach out via email.
