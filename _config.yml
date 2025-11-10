@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "KY Headshot UC 2.png"
+  avatar           : "images/KY Headshot UC 2.png"
   name             : "Khalid A. Yusuf"
   pronouns         : # example: "she/her"  
   bio              : "Research Coordinator"
